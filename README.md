@@ -14,6 +14,5 @@
 </h4>
 
 <br>
-<br>
 
 Official implementation at: [https://jugit.fz-juelich.de/ias-8/sgd_biased](https://jugit.fz-juelich.de/ias-8/sgd_biased).
