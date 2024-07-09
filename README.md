@@ -1,8 +1,8 @@
 <h1 align="center"> SGD Biased towards Early Important Samples for Efficient Training </h1>
 
-<h3 align="center"> Alessio Quercia<sup>*1,2</sup> $\cdot$ Abigail Morrison<sup>1,2</sup> $\cdot$ Hanno Scharr<sup>2</sup> $\cdot$ Ira Assent<sup>2,3</sup></h3>
+<h3 align="center"> Alessio Quercia<sup>*1,2</sup> <span>&#183;</span> Abigail Morrison<sup>1,2</sup> <span>&#183;</span> Hanno Scharr<sup>2</sup> <span>&#183;</span> Ira Assent<sup>2,3</sup></h3>
 
-<h4 align="center"> <sup>1</sup> RWTH Aachen University $\quad$ <sup>2</sup>Forschungszentrum Juelich $\quad$ <sup>3</sup>Aarhus University</h4>
+<h4 align="center"> <sup>1</sup> RWTH Aachen University &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <sup>2</sup>Forschungszentrum Juelich &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <sup>3</sup>Aarhus University</h4>
 
 <h5 align="center"> <sup>*</sup>corresponding author and project lead</h5>
 
