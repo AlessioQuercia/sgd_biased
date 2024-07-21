@@ -4,7 +4,7 @@
 
 <h4 align="center"> <sup>1</sup> RWTH Aachen University &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <sup>2</sup>Forschungszentrum Juelich &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <sup>3</sup>Aarhus University</h4>
 
-<h5 align="center"> <sup>*</sup>corresponding author and project lead</h5>
+<h5 align="center"> <sup>*</sup>corresponding author</h5>
 
 <h4 align="center"> ICDM 2023 </h4>
 
